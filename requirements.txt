@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+pandas
+langchain
+langchain-community
+langchain-experimental
+sqlalchemy
+pydantic
+pydantic-settings
+scikit-learn
+requests
+tabulate
