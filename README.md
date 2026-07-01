@@ -83,8 +83,11 @@ python start.py
 ```
 
 ## Example Queries
-- *"How many tickets are currently open?"* -> "There are X tickets open."
-- *"Which agent resolved the most tickets?"* -> "Agent AGT-04 resolved the most."
+- *"How many tickets are currently open?"*
+- *"Which agent resolved the most tickets?"*
+- *"Show all Critical tickets not resolved within 12 hours."*
+- *"Average customer rating for Technical tickets?"*
+- *"Are there anomalies this week?"*
 
 ## Error Handling
 - **Global Try-Except Blocks**: All FastAPI endpoints are wrapped to prevent silent crashes.
